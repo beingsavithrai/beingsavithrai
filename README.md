@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: please feel free to contact me at savithkumarrai@gmail.com to initiate a conversation. 
 - ⚡ Social Media : FB - Savith Rai, LinkedIn- Savith Rai
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Relatively common person. One that comes to mind right now is that I was born in a car travelling at 60 kilometres per hour. That's pretty fascinating, right? hehe
 
 # Savith
 ## Savith
