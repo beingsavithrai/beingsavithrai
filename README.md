@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-**savithrai/savithrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**savithrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a project that is called WorldCupOnTheGo
+- 🔭 I’m currently working on a project that is called World Cup on the Go
 - 🌱 I’m currently learning ASP.net
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/beingsavithrai" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@beingsavithrai-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://my.linkedin.com/in/sobery-basri-7b20aa105?trk=pub-pbmap" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-soberybasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://my.linkedin.com/in/sobery-basri-7b20aa105?trk=pub-pbmap"></a>
+    <a href="https://my.linkedin.com/in/savith-rai-7b20aa105?trk=pub-pbmap" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-savith-rai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://my.linkedin.com/in/savith-rai-7b20aa105?trk=pub-pbmap"></a>
     <a href="mailto:savithkumarrai@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-savithkumarrai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savithkumarrai@gmail.com"></a>    
 </p>
