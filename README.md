@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Relatively common person. One that comes to mind right now is that I was born in a car travelling at 60 kilometres per hour. That's pretty fascinating, right? hehe
 
-# Savith
-## Savith
-### Savith
 
 
 <details>
