@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 </details>
 
 
+
+### 🙌🏻 Connect with Me
+<p align="left">
+    <a href="https://github.com/duncansez" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duncansez-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://my.linkedin.com/in/sobery-basri-7b20aa105?trk=pub-pbmap" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-soberybasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://my.linkedin.com/in/sobery-basri-7b20aa105?trk=pub-pbmap"></a>
+    <a href="mailto:soberybasri@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-soberybasri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soberybasri@gmail.com"></a>    
+</p>
