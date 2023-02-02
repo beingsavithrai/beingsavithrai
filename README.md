@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/beingsavithrai" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@beingsavithrai-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://my.linkedin.com/in/savith-rai-7b20aa105?trk=pub-pbmap" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-savith-rai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://my.linkedin.com/in/savith-rai-7b20aa105?trk=pub-pbmap"></a>
+    
+ <a href="[https://my.linkedin.com/in/sobery-basri-7b20aa105?trk=pub-pbmap](https://www.linkedin.com/in/savith-rai-813b9b167/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-savithrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savith-rai-813b9b167/"></a>
+    
     <a href="mailto:savithkumarrai@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-savithkumarrai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savithkumarrai@gmail.com"></a>    
 </p>
